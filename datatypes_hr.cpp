@@ -7,6 +7,7 @@ int main (){
     char c;
     float d;
     double e;
+    
     cin>>a>>b>>c>>d>>e;
     cout<<setprecision(65)<<a<<endl;
     cout<<b<<endl;
