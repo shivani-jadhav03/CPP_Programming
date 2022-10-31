@@ -1,12 +1,12 @@
 #include <iostream>
-#include <string.h>
+include <string.h>
+
 using namespace std;
 
 int main(){
+    string s;
     cout<<"Enter your name  ";  // << is called Insertion operator.
-    string x;
-    
-    cin>>x;  // >> is Extraction operator.
-    cout<<"Welcome "<<x<<endl;
+    cin>>s;  // >> is Extraction operator.
+    cout<<"Welcome "<<s<<endl;
     return 0;
 }
